@@ -1,3 +1,3 @@
 # MFE-Cpp
 
-Some codes fo MFE in C++
+Some codes for MFE in C++
